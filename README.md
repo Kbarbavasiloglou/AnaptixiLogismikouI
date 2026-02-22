@@ -94,7 +94,7 @@ Anaptixi-Logismikou-1/      # Ρίζα του project
 
  - `class_diagram.png` – class diagram των βασικών κλάσεων που υλοποιούνται.
 
- - `sequence_diagram.png` – sequence diagram για το βασικό use case, που περιγράφει τη συνολικότερη υλοποίηση (μαζί με την επιλογή των τρόπων πληρωμής και την αποστολή sms στον δωρητή.
+ - `sequence_diagram.png` – sequence diagram για το βασικό use case, που περιγράφει τη συνολικότερη υλοποίηση (μαζί με την επιλογή των τρόπων πληρωμής και την αποστολή sms στον δωρητή).
 
 
 
