@@ -63,6 +63,7 @@ AnaptixiLogismikouI/      # Ρίζα του project
 └── diagrams/
     ├── use_case_diagram.png
     ├── class_diagram.png
+    ├──sequence diagram.png
 │
 │
 └── περιγραφή σεναρίου/
