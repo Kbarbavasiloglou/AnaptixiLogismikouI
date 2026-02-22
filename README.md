@@ -40,7 +40,7 @@
 1. Clone του repository:
 
    ```bash
-   git clone https://github.com/Kbarbavasiloglou/AnaptixiLogismikouI
+   git clone https://github.com/Kbarbavasiloglou/Anaptixi-Logismikou-1
    cd AnaptixiLogismikouI
     ```
 
@@ -55,7 +55,7 @@ python main.py
 Σύντομη περιγραφή των αρχείων:
 
 ```text
-AnaptixiLogismikouI/      # Ρίζα του project
+Anaptixi-Logismikou-1/      # Ρίζα του project
 │
 ├── main.py              # Είσοδος του προγράμματος / μενού / διάλογος με χρήστη
 ├── models.py            # Κλάσεις οντοτήτων (Donor, Donation, PaymentReceipt)
